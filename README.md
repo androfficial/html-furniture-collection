@@ -2,7 +2,7 @@
 
 Six-page website for Desire, a furniture store, with sliders, a filterable photo gallery and a blog. Built in May 2021 as a learning project.
 
-**Live demo:** [androfficial.github.io/furniture-collection](https://androfficial.github.io/furniture-collection/)
+**Live demo:** [androfficial.github.io/html-furniture-collection](https://androfficial.github.io/html-furniture-collection/)
 
 ## Features
 
@@ -23,8 +23,8 @@ Six-page website for Desire, a furniture store, with sliders, a filterable photo
 The repository holds the compiled site, with no dependencies and no build step, so a browser is all it needs. jQuery and the fonts load from CDNs, so the page needs a network connection.
 
 ```bash
-git clone https://github.com/androfficial/furniture-collection.git
-cd furniture-collection
+git clone https://github.com/androfficial/html-furniture-collection.git
+cd html-furniture-collection
 ```
 
 Then open `index.html` in a browser.
